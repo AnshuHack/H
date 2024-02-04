@@ -1,0 +1,9 @@
+HTML entities are string of text that starts with '&' and end with ';'.
+It is commonly used for representing the special character that are reserved and imperceptile such as non-breaking spaces.
+
+list of html entities:
+1.'&copy'-> ©
+2.'&amp'-> &
+3.'&gt'-> >
+4.'&lt'-> <
+5.'&quot'-> "

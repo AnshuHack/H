@@ -1,0 +1,19 @@
+List of the semantic tags in HTML along with their description :- 
+
+1.Header <Header>
+<header> specifies header for a document or any section.
+
+2. Footer <footer>
+<footer> specifies foot of the document or any section.
+
+3. Navigation <nav>
+<nav> defines the navigation link and it is used to navigate in document via links.
+
+4. Main <main>
+<main> defines the main content.
+
+5. article <article> 
+It defines the part of the main content with paragraph <p> and heading <h>.
+
+6. Section <section> 
+It also defines the part of the main content with paragraph <p> and heading <h>.

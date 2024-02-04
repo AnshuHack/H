@@ -1,0 +1,7 @@
+Web Accesibility refers to the the practice of designing and developing websites, web application and other digital content which are accessed by people with disablities without any 
+barrier and limitations.
+
+List of the assistive devices:
+1.Screen reader(Read the screen aloud for the people for visually impared)
+2.Voice Recognition(You can control the screen by using voice, it is useful for the people of mobiltiy impared)
+3.Keyboard alternative(You can use monitor by using the gestures).

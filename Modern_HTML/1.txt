@@ -1,0 +1,6 @@
+Features of HTML5:
+1.Multimedia Support: Provides built in support for elements such as video and audio without need for plugin.
+2.Form Improvement:It includes new elements and form attributes such as time, date, and color. Required and autofocus in input types of the tag element as well.
+3.It has support for local storage, as HTML5 introduced local storage APIs.
+4.Geological API: HTML5 introduced geological APIs for obtaining the user's location.
+5.Structure of document:It support more semantic element, such as <header>, <footer>, <nav> and <article> etc., thereby Improved accessibility.
